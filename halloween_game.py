@@ -1,5 +1,5 @@
 # 🎃 The Haunted Trick or Treat Night
-# 👩‍💻 Created by Vicky for Programmiz October Challenge: "Trick, Treat & Code"
+# 👩‍💻 Created by okafor chidubem victoria
 # 🕯️ A spooky, mysterious text adventure with random twists...
 
 import time
@@ -116,3 +116,4 @@ def start_game():
 
 if __name__ == "__main__":
     start_game()
+
